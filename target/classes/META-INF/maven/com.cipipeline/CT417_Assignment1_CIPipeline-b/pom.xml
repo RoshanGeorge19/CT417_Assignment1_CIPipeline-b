@@ -24,8 +24,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.github.RoshanGeorge19</groupId>
-			<artifactId>CT417_Assignment1_CIPipeline-a_c</artifactId>
-			<version>1.4</version>
+			<artifactId>CT417_Assignment1_CIPipeline</artifactId>
+			<version>2.0</version>
 		</dependency>
 
 
